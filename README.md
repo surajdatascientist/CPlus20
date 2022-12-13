@@ -1,2 +1,2 @@
-# CPlus20
+# CPlusPlus20
 C++ 20
